@@ -1,4 +1,5 @@
-# Derivation of soil physical and hydraulic properties
+# Derivation of soil physical and hydraulic properties [![DOI](https://zenodo.org/badge/504500378.svg)](https://zenodo.org/badge/latestdoi/504500378)
+
 
 The SWAT+ model requires the soil properties of the Hydrological Response Units defined based on slope, land use and soil maps. These soil properties are soil layering, maximum rooting depth, information on soil cracking, effective bulk density, available water capacity, saturated hydraulic conductivity, organic carbon content, sand, silt and clay content, rock fragment content, moist soil albedo, USLE soil erodibility factor, hydrologic soil group, and nutrient content of the surface soil layer. Most of the basic soil properties – e.g. soil organic carbon content, particle size distribution – are usually locally available, but information on soil hydraulic properties are often missing. The soil physical properties can be computed with the so called pedotransfer functions, which are widely-used indirect techniques enabling the soil hydraulic properties to be predicted by using easily-retrievable basic soil information.
 
